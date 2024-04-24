@@ -5,7 +5,6 @@ Creation Process
 1. Initialize a new NodeJS Package
 ``
   npm init
-
 ``
 2. Create 'index.js' file, Wrote Program Logic
 
